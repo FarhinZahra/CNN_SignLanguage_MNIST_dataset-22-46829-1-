@@ -38,7 +38,7 @@ to classify American Sign Language (ASL) hand gestures from the
 | Learning Rate | 0.001 |
 | LR Scheduler | StepLR (step=10, γ=0.5) |
 | Loss Function | CrossEntropyLoss |
-| Epochs | 30 |
+| Epochs | 15 |
 | Batch Size | 64 |
 
 ---
